@@ -1,0 +1,13 @@
+path: '{ПУТЬ ДО ПАПКИ ПРОЕКТА}/Camera_Get_Num/AI/trainingFiles'
+train: 'train'
+val: 'valid'
+ 
+nc: 5     #Number of classes, from 0
+
+# Classes
+names:
+  0: one
+  1: two
+  2: three
+  3: four
+  4: five
